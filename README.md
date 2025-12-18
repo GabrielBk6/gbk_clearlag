@@ -1,32 +1,34 @@
 # 🧹 gbk_clearlag
-A Minecraft server optimization and lag-control plugin. Performs automatic and manual clearing of mobs and items, includes the /gclear command, limits entities per chunk, prevents excessive villager spawning and breeding, controls portals per chunk, and helps keep the server stable and organized.
+# GBK CLEARLAG 1.2
 
-🔨 Plugin System
+**gbk_clearLag** is an advanced optimization plugin for Minecraft servers, designed to reduce lag, improve performance, and keep the server clean and stable, even with many players online.
 
-➡ Automatic and manual entity clearing
+_It performs automatic and manual cleanups of items, mobs, entities, and chunk limits, preventing server overload and TPS drops._
 
-➡ Control of entity overpopulation per chunk
+**⚙️ Main Features**
+✔ Configurable automatic cleanup system
+✔ Warning messages before cleanup
+✔ Manual cleanup commands
+✔ Mob, block, and portal limits per chunk
+✔ Automatic blocking when limits are reached
+✔ Protected items (never removed)
+✔ Removal of unnamed mobs only
+✔ Automatic cleanup in Nether and The End
+✔ Fully multilingual message system (pt-BR, pt-PT, en-US, zh-CN)
+✔ Customizable messages and prefix
+✔ Update checker for server operators
+✔ Compatible with Paper, Spigot, and Bukkit
+✔ Developed with a strong focus on performance and stability
 
-➡ Prevention of excessive villagers
+**🌍 Language System**
+All plugin messages are dynamically loaded from messages.yml, allowing full translation and customization without modifying the code.
 
-➡ Portal limitations
-
-➡ Lag prevention in the Nether and End
-
-⚙️ Settings
-
-➡ Reads from config.yml:
-
-➡ Automatic clearing interval
-
-➡ Warning time before clearing
-
-➡ Whether to clear items and/or mobs
-
-➡ List of protected items (not removed)
-
-➡ List of mobs that can be cleared
-➡ Discord webhook (clearing logs)
+**🧹 Perfect for:**
+Survival servers
+SkyBlock servers
+Servers with heavy farms
+Small or large networks
+Servers suffering from lag or entity overload
 
 🔽 [Download: **gbk_clearlag**](https://github.com/GabrielBk6/gbk_clearlag/releases/tag/clearlag) 
 
