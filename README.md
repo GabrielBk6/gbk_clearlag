@@ -1,5 +1,4 @@
-# 🧹 gbk_clearlag
-# GBK CLEARLAG 1.2
+# 🧹 gbk_clearlag 1.2
 
 **gbk_clearLag** is an advanced optimization plugin for Minecraft servers, designed to reduce lag, improve performance, and keep the server clean and stable, even with many players online.
 
