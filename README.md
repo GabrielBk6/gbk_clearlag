@@ -1,4 +1,4 @@
-# gbk_clearlag
+# 🧹 gbk_clearlag
 A Minecraft server optimization and lag-control plugin. Performs automatic and manual clearing of mobs and items, includes the /gclear command, limits entities per chunk, prevents excessive villager spawning and breeding, controls portals per chunk, and helps keep the server stable and organized.
 
 🔨 Plugin System
