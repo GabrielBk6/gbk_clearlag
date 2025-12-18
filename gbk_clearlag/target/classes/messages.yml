@@ -1,7 +1,0 @@
-prefix: "&7[&aLixeiro&7] "
-aviso_limpeza: "&cO lixeiro passará em {minutes} minutos!"
-iniciando_limpeza: "&eO lixeiro está limpando o servidor..."
-limpeza_concluida: "&aO lixeiro limpou {removed} entidades!"
-limpeza_mobs: "&aO lixeiro limpou {removed} mobs!"
-limpeza_itens: "&aO lixeiro limpou {removed} itens!"
-reload: "&aConfiguração recarregada com sucesso!"
