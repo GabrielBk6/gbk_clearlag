@@ -29,4 +29,5 @@ A Minecraft server optimization and lag-control plugin. Performs automatic and m
 ➡ Discord webhook (clearing logs)
 
 🔽 [Download: **gbk_clearlag**](https://github.com/GabrielBk6/gbk_clearlag/releases/tag/clearlag) 
+
 <img width="288" height="288" alt="img1" src="https://github.com/user-attachments/assets/557d179c-78c7-4fbe-ba25-ac9dc50ca36e" />
