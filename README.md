@@ -6,16 +6,16 @@
 _It performs automatic and manual cleanups of items, mobs, entities, and chunk limits, preventing server overload and TPS drops._
 
 **⚙️ Main Features**
-✔ Configurable automatic cleanup system
-✔ Warning messages before cleanup
-✔ Manual cleanup commands
-✔ Mob, block, and portal limits per chunk
-✔ Automatic blocking when limits are reached
-✔ Protected items (never removed)
-✔ Removal of unnamed mobs only
-✔ Automatic cleanup in Nether and The End
-✔ Fully multilingual message system (pt-BR, pt-PT, en-US, zh-CN)
-✔ Customizable messages and prefix
+- ✔ Configurable automatic cleanup system
+- ✔ Warning messages before cleanup
+- ✔ Manual cleanup commands
+- ✔ Mob, block, and portal limits per chunk
+- ✔ Automatic blocking when limits are reached
+- ✔ Protected items (never removed)
+- ✔ Removal of unnamed mobs only
+- ✔ Automatic cleanup in Nether and The End
+- ✔ Fully multilingual message system (pt-BR, pt-PT, en-US, zh-CN)
+- ✔ Customizable messages and prefix
 ✔ Update checker for server operators
 ✔ Compatible with Paper, Spigot, and Bukkit
 ✔ Developed with a strong focus on performance and stability
